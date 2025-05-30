@@ -1,7 +1,5 @@
-import React from "react";
-export default function Portfolio() {
-  return (
-    <div className="p-10 max-w-5xl mx-auto font-sans bg-white shadow-lg rounded-xl mt-10 text-gray-800">
+
+  <div className="p-10 max-w-5xl mx-auto font-sans bg-white shadow-lg rounded-xl mt-10 text-gray-800">
       <header className="mb-10 text-center">
         <h1 className="text-5xl font-bold text-blue-700 mb-2">Thumma Nivas</h1>
         <p className="text-lg text-gray-500">Aspiring AI/ML Engineer | B.Tech in Computer Science & AI/ML</p>
@@ -62,5 +60,5 @@ export default function Portfolio() {
         <p>LinkedIn: <a href="https://linkedin.com/in/thumma-nivas-178420259" target="_blank" className="text-blue-600 hover:underline">linkedin.com/in/thumma-nivas-178420259</a></p>
       </footer>
     </div>
-  );
+
 
